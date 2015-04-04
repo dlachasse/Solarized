@@ -35,7 +35,7 @@
 				<key>gutter</key>
 				<string>#073642</string>
 
-				<!-- Defaul looks best really -->
+				<!-- Default looks best really -->
 				<!-- <key>findHighlight</key> -->
 				<!-- <string>#DDDD45</string> -->
 				<!-- <key>findHighlightForeground</key>
@@ -174,7 +174,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#859900</string>
+				<string>#b58900</string>
 			</dict>
 		</dict>
 		<dict>
@@ -185,7 +185,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#b58900</string>
+				<string>#268bd2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -196,7 +196,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#859900</string>
+				<string>#268bd2</string>
 			</dict>
 		</dict>
 		<dict>
