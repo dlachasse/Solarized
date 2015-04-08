@@ -35,7 +35,7 @@
 				<key>gutter</key>
 				<string>#073642</string>
 
-				<!-- Default looks best really -->
+				<!-- Defaul looks best really -->
 				<!-- <key>findHighlight</key> -->
 				<!-- <string>#DDDD45</string> -->
 				<!-- <key>findHighlightForeground</key>
@@ -339,7 +339,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#839496</string>
+				<string>#dc322f</string>
 			</dict>
 		</dict>
 		<dict>
@@ -471,6 +471,17 @@
 		</dict>
 
 		<!-- Ruby -->
+		<dict>
+			<key>name</key>
+			<string>Ruby: Class keyword</string>
+			<key>scope</key>
+			<string>keyword.control.class.ruby</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#859900</string>
+			</dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Ruby: Special Method</string>
